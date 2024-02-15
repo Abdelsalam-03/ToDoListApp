@@ -22,7 +22,7 @@
 <body>
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <div class="container">
-            <a class="navbar-brand" href="#">ToDo</a>
+            <a class="navbar-brand" href="index.php">ToDo</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon"></span>
             </button>
